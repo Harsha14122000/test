@@ -8,6 +8,10 @@ main()
     cout<<endl<<"Correct";
   else
     cout<<endl<<"Wrong";
-  cout<<endl<<"Bye";		
+  int n=0;
+  if(n!=0)
+  	cout<<endl<<"True";
+  else
+  	cout<<endl<<"False";	
   return 0;
 }
