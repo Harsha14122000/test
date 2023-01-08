@@ -8,5 +8,6 @@ main()
     cout<<endl<<"Correct";
   else
     cout<<endl<<"Wrong";
+  cout<<endl<<"Bye";		
   return 0;
 }
